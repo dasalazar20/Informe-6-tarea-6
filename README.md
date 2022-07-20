@@ -33,77 +33,77 @@ Comprender sobre la corriente y el voltaje alterno en circuitos eléctricos y a 
  
  2.2.1 La forma de onda sinusoidal
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Imagenes/Capitulo%2011/Informe%206%20Circuitos_3.jpg)
  
  2.2.2 Fuentes de voltaje sinusoidal
  
-  ![]()
+  ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Imagenes/Capitulo%2011/Informe%206%20Circuitos_4.jpg)
  
  2.2.3 Valores sinusoidales de voltaje y corriente
  
-  ![]()
+  ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Imagenes/Capitulo%2011/Informe%206%20Circuitos_5.jpg)
  
  2.2.4 Medición angular de una onda seno 
  
-  ![]()
+  ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Imagenes/Capitulo%2011/Informe%206%20Circuitos_6.jpg)
  
  2.2.5 La fórmula de la onda seno
  
-  ![]()
+  ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Imagenes/Capitulo%2011/Informe%206%20Circuitos_7.jpg)
  
  2.2.6 Introducción a los fasores
  
-  ![]()
+  ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Imagenes/Capitulo%2011/Informe%206%20Circuitos_8.jpg)
  
  2.2.7 Análisis de circuitos de CA
  
-  ![]()
+  ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Imagenes/Capitulo%2011/Informe%206%20Circuitos_9.jpg)
  
  2.2.8 Voltajes superpuestos de CD y de CA  Formas de onda no sinusoidales
  
-  ![]()
+  ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Imagenes/Capitulo%2011/Informe%206%20Circuitos_10.jpg)
  
  2.2.9 Formas de onda no sinusoidales
  
-  ![]()
+  ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Imagenes/Capitulo%2011/Informe%206%20Circuitos_11.jpg)
   
  2.2.10 El osciloscopio
  
-  ![]()
+  ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Imagenes/Capitulo%2011/Informe%206%20Circuitos_12.jpg)
   
    2.3 Capitulo 12 (Capacitores )
    
  2.3.1 El capacitor básico
  
-  ![]()
+  ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Imagenes/Capitulo%2012/Informe%206%20Circuitos_13.jpg)
  
  2.3.2 Tipos de capacitores
  
-  ![]()
+  ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Imagenes/Capitulo%2012/Informe%206%20Circuitos_14.jpg)
  
  2.3.3 Capacitores en serie
  
-  ![]()
+  ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Imagenes/Capitulo%2012/Informe%206%20Circuitos_15.jpg)
  
  2.2.4 Capacitores en paralelo  
  
-  ![]()
+  ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Imagenes/Capitulo%2012/Informe%206%20Circuitos_16.jpg)
   
  2.3.5 Capacitores en circuitos de CD
  
-  ![]()
+  ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Imagenes/Capitulo%2012/Informe%206%20Circuitos_17.jpg)
  
  2.3.6 Capacitores en circuitos de CA
  
-  ![]()
+  ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Imagenes/Capitulo%2012/Informe%206%20Circuitos_18.jpg)
  
  2.3.7 Aplicaciones de los capacitores
  
-  ![]()
+  ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Imagenes/Capitulo%2012/Informe%206%20Circuitos_19.jpg)
  
  2.3.8 Circuitos de capacitor conmutados
  
-  ![]()
+  ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Imagenes/Capitulo%2012/Informe%206%20Circuitos_20.jpg)
 
 # 3.Explicación y Resolución de Ejercicios 
 
@@ -111,61 +111,57 @@ Comprender sobre la corriente y el voltaje alterno en circuitos eléctricos y a 
 
 # Capítulo 11 ()
 
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2011/Cap%C3%ADtulo%2011%20Circuito%20Serie(1)_1.jpg)
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2011/Cap%C3%ADtulo%2011%20Circuito%20Serie(1)_2.jpg)
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2011/Cap%C3%ADtulo%2011%20Circuito%20Serie(1)_3.jpg)
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2011/Cap%C3%ADtulo%2011%20Circuito%20Serie(1)_4.jpg)
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2011/Cap%C3%ADtulo%2011%20Circuito%20Serie(1)_5.jpg)
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2011/Cap%C3%ADtulo%2011%20Circuito%20Serie(1)_6.jpg)
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2011/Cap%C3%ADtulo%2011%20Circuito%20Serie(1)_7.jpg)
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2011/Cap%C3%ADtulo%2011%20Circuito%20Serie(1)_8.jpg)
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2011/Cap%C3%ADtulo%2011%20Circuito%20Serie(1)_9.jpg)
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2011/Cap%C3%ADtulo%2011%20Circuito%20Serie(1)_10.jpg)
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2011/Cap%C3%ADtulo%2011%20Circuito%20Serie(1)_11.jpg)
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2011/Cap%C3%ADtulo%2011%20Circuito%20Serie(1)_12.jpg)
            
 
-# Capitulo 12 ()
+# Capitulo 12 (Capacitores)
 
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2012/capitulo%2012_1.jpg)
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2012/capitulo%2012_2.jpg)
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2012/capitulo%2012_3.jpg)
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2012/capitulo%2012_4.jpg)
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2012/capitulo%2012_5.jpg)
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2012/capitulo%2012_6.jpg)
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2012/capitulo%2012_7.jpg)
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2012/capitulo%2012_8.jpg)
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2012/capitulo%2012_9.jpg)
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2012/capitulo%2012_10.jpg)
  
- ![]()
+ ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2012/capitulo%2012_11.jpg)
  
- ![]()
-           
 
 # 4. VIDEO
-
-
 
 # 5. CONCLUSIONES
 
