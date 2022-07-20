@@ -1,7 +1,7 @@
 # Informe-6-tarea-6
 
 # 1. OBJETIVOS 
- 
+ 22
 1.1 Objetivo General
 
 
