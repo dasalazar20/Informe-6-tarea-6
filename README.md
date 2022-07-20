@@ -109,7 +109,7 @@ Comprender sobre la corriente y el voltaje alterno en circuitos eléctricos y a 
 
  Realizar los ejercicios pares del capitulo 11 y 12 del libro “Principios de Circuitos Eléctricos” de Floyd 
 
-# Capítulo 11 ()
+# Capítulo 11 (Introduccion a la corriente y al voltaje alternos)
 
  ![](https://github.com/dasalazar20/Informe-6-tarea-6/blob/main/Ejercicios/Capitulo%2011/Cap%C3%ADtulo%2011%20Circuito%20Serie(1)_1.jpg)
  
@@ -162,6 +162,8 @@ Comprender sobre la corriente y el voltaje alterno en circuitos eléctricos y a 
  
 
 # 4. VIDEO
+
+https://www.youtube.com/watch?v=U0BL56mUpdw
 
 # 5. CONCLUSIONES
 
