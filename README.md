@@ -167,7 +167,11 @@ Comprender sobre la corriente y el voltaje alterno en circuitos eléctricos y a 
 
 CAPITULO 11
 
+Al momento de la redacción y resolución de los ejercicios del capítulo 11 de “Principios de Circuitos Eléctricos” de Floyd se logró comprender los diferentes comportamientos de la corriente y del voltaje alternos identificando la forma de onda sinouidal con sus respectivos valores de voltaje y corriente, y por último se investigó sobre las relaciones angulares que contiene una onda seno
+
 CAPITULO 12
+
+Al realizar la redacción y resolución de los ejercicios del capítulo 8 de “Principios de Circuitos Eléctricos” de Floyd se logro a ser una investigación profunda sobre todo lo referente a los capacitores como, por ejemplo: su Castruccio, sus características básicas, los diferentes tipos de capacitores con su finalidad. Asu vez se analizo los capacitores en serie y en paralelo logrando así calcular su valor con sus respectivas formulas y por ultimo se analizo el comportamiento que tiene los capacitores al estar presentes en circuitos AC y AD
 
 # 6. BIBLIOGRAFIA
 
